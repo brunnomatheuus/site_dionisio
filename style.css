@@ -1,0 +1,37 @@
+.carousel-item > img {
+  height: 35rem;
+}
+
+.featurette-divider {
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+#biografia {
+	margin-top: 140px;
+	margin-bottom: 140px;
+}
+
+#shows {
+	background-image: url("images/4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 600px;
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
+#redes-sociais {
+	min-height: 300px;
+}
+
+#text-footer {
+	font-size: 15px;
+	opacity: 0.8;
+	margin-top: 5px;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
