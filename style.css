@@ -1,5 +1,5 @@
 .carousel-item > img {
-  height: 35rem;
+	height: 45rem;
 }
 
 .featurette-divider {
@@ -10,6 +10,10 @@
 #biografia {
 	margin-top: 140px;
 	margin-bottom: 140px;
+}
+
+.recuo { 
+	text-indent:40px;
 }
 
 #shows {
